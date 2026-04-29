@@ -30,7 +30,7 @@ I specialize in **Applied AI Engineering**—building autonomous systems that do
 
 <p align="left">
   <a href="https://github.com/karandangi123"><img src="https://img.shields.io/badge/NIT_Bhopal-Data_Science-orange?style=flat-square" /></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karan-dangi-4a672925b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
