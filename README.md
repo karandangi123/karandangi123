@@ -1,59 +1,37 @@
-# 👋 Hi, I'm Karan Dangi
+# Karan Dangi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Elite+AI+Engineer;Full-Stack+Architect;GitHub+Mastery+Expert;Building+the+Future+of+Agentic+AI" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-I'm a **Senior AI Engineer & Full-Stack Architect** focused on building production-grade agentic systems. I specialize in bridging the gap between cutting-edge LLMs and robust, scalable software architecture.
-
-- 🔭 Currently scaling **[LeadForge AI](https://github.com/karandangi123/leadforge-ai)** - A revenue operations agentic engine.
-- 🧪 Expert in **RAG (Retrieval-Augmented Generation)** and **Human-in-the-loop** workflows.
-- 🛡️ Passionate about **Security-First Development** and Zero-Leak architectures.
+**Software Architect & AI Engineer**  
+*Focused on building resilient agentic systems and secure RevOps infrastructure.*
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karandangi123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karandangi123&layout=compact&theme=tokyonight" />
-</p>
+### 🏛️ Engineering Focus
+- **Agentic Workflows**: Designing Human-in-the-loop (HITL) systems for high-stakes business operations.
+- **Security-First Architecture**: Implementing proactive defense (CodeQL, SAST) in every project.
+- **Scalable Full-Stack**: Expert in Next.js 15, React 19, and Type-Safe Prisma systems.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🚀 Key Projects
+- **[LeadForge AI](https://github.com/karandangi123/leadforge-ai)**: A production-grade RevOps engine built for traceability and scale.
+- **[Abandoned Cart AI](https://github.com/karandangi123/abandoned-cart-ai)**: RAG-based eCommerce recovery orchestrator.
+- **[Currency Monitor](https://github.com/karandangi123/currency-monitor-ai)**: Real-time financial monitoring with deterministic AI fallbacks.
+
+---
+
+### 🛠️ Technical Arsenal
+**Languages & Frameworks**: TypeScript, Next.js, React, Node.js, Python  
+**Data & Security**: PostgreSQL, Prisma, Zod, CodeQL, Gitleaks  
+**AI & Cloud**: OpenAI SDK, RAG Architectures, GitHub Actions (CI/CD)
+
+---
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
----
-
-### ⭐ Featured Projects
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[LeadForge AI](https://github.com/karandangi123/leadforge-ai)** | Agentic Revenue Operations Engine. | Next.js, Prisma, GPT-4o |
-| **[Abandoned Cart AI](https://github.com/karandangi123/abandoned-cart-ai)** | RAG-driven eCommerce recovery orchestrator. | AI, n8n, RAG |
-| **[Currency Monitor](https://github.com/karandangi123/currency-monitor-ai)** | Real-time AI financial monitoring. | Python, AI, Automation |
-
----
-
-### 📫 Connect with Me
-<p align="left">
-<a href="https://github.com/karandangi123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="karandangi123" height="30" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karandangi123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="karandangi123" height="30" width="40" /></a>
+  <a href="https://github.com/karandangi123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 <p align="center">
-  <i>"Code is poetry, but Architecture is the soul."</i>
+  <sub>Architecture over hype. Quality over quantity.</sub>
 </p>
