@@ -49,7 +49,7 @@ A fault-tolerant automated pipeline to monitor real-time data ingestion across A
 
 ## 🏆 Certifications
 - **Forensic Data Analysis & Validation** — Deloitte Data Analytics Virtual Simulation (Dec 2025)
-- **Data Science & Analytics (ML Testing)** — 365 Careers Bootcamp (Jun 2025)
+- **Data Science & Analytics** — 365 Careers Bootcamp (Jun 2025)
 
 ---
 
