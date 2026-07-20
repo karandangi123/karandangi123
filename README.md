@@ -1,61 +1,51 @@
-# Karan Dangi
+# Karan Dangi Portfolio! 🚀
 
-Detail-oriented **Quality Analyst & Software Quality Assurance Engineer** specializing in AI output evaluation, data validation pipelines, and comprehensive end-to-end QA automation. 
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
-**B.Tech in Mathematics & Data Science @ MANIT Bhopal (2022 – 2026)**  
-Experienced in structural verification, API testing, regression-style AI output analysis, and building reliable CI/CD pipelines.
-
-[LinkedIn](https://www.linkedin.com/in/karan-dangi-4a672925b) • [GitHub](https://github.com/karandangi123)
-
----
-
-## 🎯 What I Build & Validate
-
-- **High-Scale Test Suites**: Implementing automated End-to-End (E2E) testing patterns (Playwright) and API validations (Postman).
-- **AI & Data Integrity**: Structured quality evaluation of AI models, code generation correctness, and complex data pipeline accuracy.
-- **Fault-Tolerant Automation**: Designing automated event tracking, error logging, and system monitoring tasks.
-- **Clean Architecture & CI/CD**: Ensuring production-grade technical execution with strict linting, type systems, and Git protection gates.
+## 📑 Table of Contents
+- [Business Analyst Projects](#-business-analyst-projects)
+- [EDA Projects](#-eda-projects)
+- [Tableau Projects](#-tableau-projects)
 
 ---
 
-## 🏗 Flagship Work
+## 📊 Business Analyst Projects
 
-### ⚡️ [LeadForge AI](https://github.com/karandangi123/leadforge-ai)
-A high-fidelity B2B SaaS platform for outbound RevOps. Architected and implemented from the ground up as a solo creator.
-- Developed the monorepo architecture (Next.js, TypeScript, PostgreSQL, Prisma, BullMQ, Redis).
-- Designed and wrote the full automated Playwright test suite for critical integration workflows, user sessions, and database constraints.
-- Integrated automated security scanners (Gitleaks) and dependency auditing to enforce strict CI/CD gates.
-
-### 📊 [Credit Card Fraud Detection & Data Validation](https://github.com/karandangi123/credit-card-fraud-detection)
-A Python-based data validation and machine learning pipeline to detect fraudulent transactions.
-- Preprocessed, cleaned, and validated large-scale transaction datasets using Pandas to catch edge cases.
-- Built and tested classification models (Random Forest, KNN) using systematic performance metrics (precision/recall, confusion matrix).
-
-### ⚙️ [Automated System Monitoring & Alert Pipeline](https://github.com/karandangi123/automated-system-monitoring)
-A fault-tolerant automated pipeline to monitor real-time data ingestion across APIs.
-- Built using n8n and Python scripts to validate request/response integrity and timeout scenarios.
-- Configured real-time Slack hooks for failure alerts and zero-data-loss validation.
+| Project Link | Completion | Tools | Project Description |
+| :--- | :---: | :--- | :--- |
+| [**Vendor Performance Analysis**](https://github.com/karandangi123/Vendor-Performance-Analysis) | 2024 | SQL, Python, Tableau, Statsmodels, Matplotlib, Seaborn | Conducted comprehensive correlation and hypothesis testing on vendor concentration, identifying 198 high-margin brands and optimizing $2.71M in stagnant inventory. |
+| [**Marketing Campaign A/B Testing**](https://github.com/karandangi123/marketing-campaign-analysis) | 2024 | Python, SciPy, Statsmodels, Matplotlib, Seaborn | Spearheaded A/B testing, independent T-tests, and Cointegration analysis on a 1,000-day dataset to statistically prove Facebook's superiority and dynamically allocate budget. |
+| [**Customer Churn & Revenue Impact**](https://github.com/karandangi123/churn-analysis) | 2024 | Python, SQL, Matplotlib, Seaborn | Engineered an end-to-end churn analytics pipeline tracking 12+ KPIs, identifying a 25.00% overall churn rate, and attributing $211K in CLTV erosion to high-risk cohorts. |
 
 ---
 
-## 🛠 Tech Stack & Core Competencies
+## 🔍 EDA Projects
 
-- **QA & Automation**: Playwright, Selenium, Appium, Pytest, Postman (API Testing)
-- **Languages**: Python (Pandas, Scikit-learn), TypeScript, JavaScript, SQL (MySQL, PostgreSQL)
-- **DevOps & Databases**: GitHub Actions (CI/CD), Supabase, n8n, AWS (Basic), Tableau
-- **Testing Methods**: Smoke, Sanity, Regression, Integration, E2E, Defect Life Cycle
-
----
-
-## 🏆 Certifications
-- **Forensic Data Analysis & Validation** — Deloitte Data Analytics Virtual Simulation (Dec 2025)
-- **Data Science & Analytics** — 365 Careers Bootcamp (Jun 2025)
+| Project Link | Completion | Tools | Project Description |
+| :--- | :---: | :--- | :--- |
+| [**Quick Commerce Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/quick%20commerce%20analysis/quickcommerce_analysis.ipynb) | 2024 | Python, Pandas, Matplotlib, Seaborn | Exploratory data analysis uncovering operational bottlenecks and customer purchasing patterns in quick commerce delivery systems. |
+| [**Salary Dataset Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/salary%20datset%20analysis/salaryanalysis.ipynb) | 2024 | Python, Pandas, Matplotlib, Seaborn | In-depth EDA on global salary trends, evaluating the impact of experience, job roles, and geographic location on compensation. |
+| [**Sales Data Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/sales%20data%20analysis/sales_data_analysis.ipynb) | 2024 | Python, Pandas, Matplotlib, Seaborn | Comprehensive sales analysis identifying seasonal trends, top-performing product categories, and revenue optimization opportunities. |
 
 ---
 
-<p align="left">
-  <a href="https://github.com/karandangi123"><img src="https://img.shields.io/badge/GitHub-karandangi123-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/karan-dangi-4a672925b"><img src="https://img.shields.io/badge/LinkedIn-Karan_Dangi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+## 📈 Tableau Projects
 
-<sub>Driven by technical precision, software quality discipline, and building robust, automated software systems.</sub>
+| Project | Dashboard |
+| :--- | :--- |
+| **Superstore Sales Dashboard** | [View Dashboard](https://github.com/karandangi123/Tableau-projects/blob/main/tableau%20superstore%20sales/Dashboard%201.pdf) |
+| **Student Depression Analysis** | [View Dashboard](https://github.com/karandangi123/Tableau-projects/blob/main/Tableau%20student%20depression/Dashboard/Student%20Count%20Analysis.pdf) |
+| **UPI Transactions Dashboard** | [View Dashboard](https://github.com/karandangi123/Tableau-projects/blob/main/Tableau%20upi%20Transactions/Transaction%20dashboard.pdf) |
+
+---
+
+## 📄 Resume
+
+**[Download my Data Analyst Resume (PDF)](./Karan_Dangi_Resume.pdf)** to see a full breakdown of my professional experience, education, and technical skills.
+
+---
+
+## 📬 Connect with Me
+
+- **LinkedIn:** [Karan Dangi](https://www.linkedin.com/in/karan-dangi-4a672925b)
+- **Email:** [karandangi1867@gmail.com](mailto:karandangi1867@gmail.com)
