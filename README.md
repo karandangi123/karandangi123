@@ -13,9 +13,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| [**Vendor Performance Analysis**](https://github.com/karandangi123/Vendor-Performance-Analysis) | 2024 | SQL, Python, Tableau, Statsmodels, Matplotlib, Seaborn | Conducted comprehensive correlation and hypothesis testing on vendor concentration, identifying 198 high-margin brands and optimizing $2.71M in stagnant inventory. |
-| [**Marketing Campaign A/B Testing**](https://github.com/karandangi123/marketing-campaign-analysis) | 2024 | Python, SciPy, Statsmodels, Matplotlib, Seaborn | Spearheaded A/B testing, independent T-tests, and Cointegration analysis on a 1,000-day dataset to statistically prove Facebook's superiority and dynamically allocate budget. |
-| [**Customer Churn & Revenue Impact**](https://github.com/karandangi123/churn-analysis) | 2024 | Python, SQL, Matplotlib, Seaborn | Engineered an end-to-end churn analytics pipeline tracking 12+ KPIs, identifying a 25.00% overall churn rate, and attributing $211K in CLTV erosion to high-risk cohorts. |
+| [**Vendor Performance Analysis**](https://github.com/karandangi123/Vendor-Performance-Analysis) | 2026 | SQL, Python, Tableau, Statsmodels, Matplotlib, Seaborn | Conducted comprehensive correlation and hypothesis testing on vendor concentration, identifying 198 high-margin brands and optimizing $2.71M in stagnant inventory. |
+| [**Marketing Campaign A/B Testing**](https://github.com/karandangi123/marketing-campaign-analysis) | 2026 | Python, SciPy, Statsmodels, Matplotlib, Seaborn | Spearheaded A/B testing, independent T-tests, and Cointegration analysis on a 1,000-day dataset to statistically prove Facebook's superiority and dynamically allocate budget. |
+| [**Customer Churn & Revenue Impact**](https://github.com/karandangi123/churn-analysis) | 2026 | Python, SQL, Matplotlib, Seaborn | Engineered an end-to-end churn analytics pipeline tracking 12+ KPIs, identifying a 25.00% overall churn rate, and attributing $211K in CLTV erosion to high-risk cohorts. |
 
 ---
 
@@ -23,9 +23,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Completion | Tools | Project Description |
 | :--- | :---: | :--- | :--- |
-| [**Quick Commerce Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/quick%20commerce%20analysis/quickcommerce_analysis.ipynb) | 2024 | Python, Pandas, Matplotlib, Seaborn | Exploratory data analysis uncovering operational bottlenecks and customer purchasing patterns in quick commerce delivery systems. |
-| [**Salary Dataset Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/salary%20datset%20analysis/salaryanalysis.ipynb) | 2024 | Python, Pandas, Matplotlib, Seaborn | In-depth EDA on global salary trends, evaluating the impact of experience, job roles, and geographic location on compensation. |
-| [**Sales Data Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/sales%20data%20analysis/sales_data_analysis.ipynb) | 2024 | Python, Pandas, Matplotlib, Seaborn | Comprehensive sales analysis identifying seasonal trends, top-performing product categories, and revenue optimization opportunities. |
+| [**Quick Commerce Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/quick%20commerce%20analysis/quickcommerce_analysis.ipynb) | 2026 | Python, Pandas, Matplotlib, Seaborn | Exploratory data analysis uncovering operational bottlenecks and customer purchasing patterns in quick commerce delivery systems. |
+| [**Salary Dataset Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/salary%20datset%20analysis/salaryanalysis.ipynb) | 2026 | Python, Pandas, Matplotlib, Seaborn | In-depth EDA on global salary trends, evaluating the impact of experience, job roles, and geographic location on compensation. |
+| [**Sales Data Analysis**](https://github.com/karandangi123/EDA-projects/blob/main/sales%20data%20analysis/sales_data_analysis.ipynb) | 2026 | Python, Pandas, Matplotlib, Seaborn | Comprehensive sales analysis identifying seasonal trends, top-performing product categories, and revenue optimization opportunities. |
 
 ---
 
