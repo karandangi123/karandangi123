@@ -43,7 +43,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📄 Resume
 
-**[Download my Resume (PDF)- Data Analyst](./Karan%20Dangi%20-%20Resume.pdf)** to see a full breakdown of my education, and technical skills.
+**[Download my Resume (PDF)- Data Analyst](./Karan%20Dangi%20-%20BA(Resume).pdf)** to see a full breakdown of my education, and technical skills.
 
 ---
 
